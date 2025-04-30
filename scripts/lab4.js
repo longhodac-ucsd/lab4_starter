@@ -34,7 +34,7 @@ function discountPrices(prices, discount) {
 
     let discountedPrice = 0
     for(let price of prices){
-        discounted.push(price * (1 - discount));
+        discounted.push(price * (1 - discount);
     }
     
 
